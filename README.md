@@ -12,17 +12,31 @@ Node-red에서 dashboard 라이브러리를 설치하여 데이터를 폭넓게 
 dashboard를 통하여 측정값을 시각화한 자료로 정리할 수 있습니다.<br/>
 dashboard를 통하여 작동부전원을 제어할 수 있습니다.<br/>
 
-### 사용한 재료들
-라즈베리파이4 B 임베디드시스템
+### 블록도
 <p align="center">
-<img src="">
+<img src="https://user-images.githubusercontent.com/61779129/235959381-9064bf4f-189a-4ad5-9a0b-08d8893906e7.png">
 </p>
 
-DHT11 센서, LED 2개
+### ER 다이어그램
 <p align="center">
-<img src="">
+<img src="https://user-images.githubusercontent.com/61779129/235959271-294b56da-d533-4abd-90dd-867e891e617e.png">
 </p>
-<br/>
+
+### Node-red 위젯 흐름도
+<p align="center">
+<img src="https://user-images.githubusercontent.com/61779129/235959572-30756b3b-6056-413c-b176-6aad7734f763.png">
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/61779129/235959690-a8030e35-1838-498f-bc4b-d45c5ab8cb8b.png">
+</p>
+
+### dashboard
+<p align="center">
+<img src="https://user-images.githubusercontent.com/61779129/235959820-9291b854-b35f-4ffe-a581-942bbe68a50d.png">
+</p>
+
+### 사용한 재료들
+라즈베리파이4 B .ver 임베디드시스템, DHT11 센서, LED 2개
 
 ### GPIO 세팅
 DHT11 - Vcc: 4_pin 5V / Data: 7_pin (GPIO_4) / Ground: 6_pin<br/>
