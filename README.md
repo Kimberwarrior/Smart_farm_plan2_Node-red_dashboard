@@ -15,12 +15,12 @@ dashboard를 통하여 작동부전원을 제어할 수 있습니다.<br/>
 ### 사용한 재료들
 라즈베리파이4 B 임베디드시스템
 <p align="center">
-<img src="https://user-images.githubusercontent.com/130550405/231491922-5f9f4808-c4a5-42e8-a3dc-6370f3bea3c4.jpg">
+<img src="">
 </p>
 
 브레드보드, DHT11 센서, LED
 <p align="center">
-<img src="https://user-images.githubusercontent.com/130550405/231492370-56f394e5-60eb-4138-8113-65c485773c79.jpg">
+<img src="">
 </p>
 <br/>
 
