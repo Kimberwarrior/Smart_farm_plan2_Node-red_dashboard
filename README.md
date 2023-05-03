@@ -3,6 +3,9 @@
 ## 구성원: 오상우, 윤현호, 박세린, 이병현, 권용만
 
 ### 개요
+<p align="center">
+<img src="https://user-images.githubusercontent.com/61779129/235955407-ad1bf8b4-f61f-4aa4-857a-ab4fe219127b.png">
+</p>
 Node-red 프레임워크 개발도구를 사용하였습니다.<br/>
 Node-red 위젯에서 각 센서와 하드웨어의 구체적인 기능을 구현하고 흐름도를 설정할 수 있습니다.<br/>
 Node-red에서 dashboard 라이브러리를 설치하여 데이터를 폭넓게 활용이 가능합니다.<br/>
