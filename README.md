@@ -25,16 +25,13 @@ dashboard를 통하여 작동부전원을 제어할 수 있습니다.<br/>
 <br/>
 
 ### GPIO 세팅
-<p align="center">
-<img src="https://user-images.githubusercontent.com/130550405/231508170-647953c9-4627-43f8-bf00-b93f5eca4d2b.png">
-</p>
 DHT11 - Vcc: 4_pin 5V / Data: 7_pin (GPIO_4) / Ground: 6_pin<br/>
-LED_Yel - 11_pin (GPIO_17) / Ground: 9_pin
+LED_Yel - 11_pin (GPIO_17) / Ground: 9_pin<br/>
 LED_Red - 12_pin (GPIO_18) / Ground: 14_pin
 <br/>
 
 ### 사용한 SW요소들
-Rasberry Pi OS Legacy, 파이썬 3.7 버전, 파이썬 관련 모듈(time / RPi.GPIO / Adafruit_DHT / 라즈베리 파이4의 칩셋명 BCM2711 추가)
+Rasberry Pi OS Legacy, Nord-red 프레임워크 개발도구, dashboard 라이브러리
 <br/>
 
 ### 구현 영상
