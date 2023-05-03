@@ -18,7 +18,7 @@ dashboard를 통하여 작동부전원을 제어할 수 있습니다.<br/>
 <img src="">
 </p>
 
-브레드보드, DHT11 센서, LED
+DHT11 센서, LED 2개
 <p align="center">
 <img src="">
 </p>
